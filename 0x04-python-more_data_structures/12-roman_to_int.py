@@ -7,7 +7,6 @@ def to_subtract(list_num):
         if max_list > n:
             to_sub += n
 
-
     return (max_list - to_sub)
 
 
