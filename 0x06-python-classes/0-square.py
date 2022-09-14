@@ -2,7 +2,6 @@
 """ Square module """
 
 
-
 class Square:
     """ define a square class """
 
