@@ -9,7 +9,7 @@ class Square:
         """
         Intializes the attributes
         Args:
-        size: size of square
+            size: size of square
         """
         self.size = size
 
