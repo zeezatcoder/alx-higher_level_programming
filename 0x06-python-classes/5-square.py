@@ -41,5 +41,5 @@ class Square:
                 while num < self.__size:
                     print("{}".format("#"), end='')
                     num += 1
-            print()
-            count += 1
+                print()
+                count += 1
