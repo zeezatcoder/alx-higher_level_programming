@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Square module """
 
+
 class Square:
     """ defines a square class """
 
@@ -18,7 +19,7 @@ class Square:
         else:
             self.__size = size
 
-            def area(self):
+    def area(self):
                 """
                 calculate the area of a square
                 """
